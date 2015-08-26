@@ -1,0 +1,415 @@
+#. extracted from Terms.csv
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-24 15:01+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.13.0-rc1\n"
+
+#: aggregate
+msgid "aggregate"
+msgstr ""
+
+#: Allocate+IP+
+msgid "Allocate IP "
+msgstr ""
+
+#: Architecture+
+msgid "Architecture "
+msgstr ""
+
+#: association
+msgid "association"
+msgstr ""
+
+#: Associate+IP+
+msgid "Associate IP "
+msgstr ""
+
+#: authenticate+
+msgid "authenticate "
+msgstr ""
+
+#: authorize+
+msgid "authorize "
+msgstr ""
+
+#: availability+zone
+msgid "availability zone"
+msgstr ""
+
+#: backend+
+msgid "backend "
+msgstr ""
+
+#: backup
+msgid "backup"
+msgstr ""
+
+#: boot+
+msgid "boot "
+msgstr ""
+
+#: cache
+msgid "cache"
+msgstr ""
+
+#: CIDR+
+msgid "CIDR "
+msgstr ""
+
+#: client
+msgid "client"
+msgstr ""
+
+#: cluster
+msgid "cluster"
+msgstr ""
+
+#: Compute+
+msgid "Compute "
+msgstr ""
+
+#: Compute+Services
+msgid "Compute Services"
+msgstr ""
+
+#: container+
+msgid "container "
+msgstr ""
+
+#: Container+Format+
+msgid "Container Format "
+msgstr ""
+
+#: credentials+
+msgid "credentials "
+msgstr ""
+
+#: Data+Processing
+msgid "Data Processing"
+msgstr ""
+
+#: Destination+container+
+msgid "Destination container "
+msgstr ""
+
+#: Destination+object+name+
+msgid "Destination object name "
+msgstr ""
+
+#: device
+msgid "device"
+msgstr ""
+
+#: Disassociate+IP+
+msgid "Disassociate IP "
+msgstr ""
+
+#: disk
+msgid "disk"
+msgstr ""
+
+#: Disk+Format+
+msgid "Disk Format "
+msgstr ""
+
+#: Disk+GB+Hours+
+msgid "Disk GB Hours "
+msgstr ""
+
+#: domain
+msgid "domain"
+msgstr ""
+
+#: domain+group
+msgid "domain group"
+msgstr ""
+
+#: Ephemeral+Disk+
+msgid "Ephemeral Disk "
+msgstr ""
+
+#: Ephemeral+Drive
+msgid "Ephemeral Drive"
+msgstr ""
+
+#: existence
+msgid "existence"
+msgstr ""
+
+#: Fetching+
+msgid "Fetching "
+msgstr ""
+
+#: Fingerprint+
+msgid "Fingerprint "
+msgstr ""
+
+#: Fixed+IP+
+msgid "Fixed IP "
+msgstr ""
+
+#: Flavor+
+msgid "Flavor "
+msgstr ""
+
+#: Floating+IP+
+msgid "Floating IP "
+msgstr ""
+
+#: gateway
+msgid "gateway"
+msgstr ""
+
+#: guide
+msgid "guide"
+msgstr ""
+
+#: health+Monitor
+msgid "health Monitor"
+msgstr ""
+
+#: host
+msgid "host"
+msgstr ""
+
+#: Host+Aggregate
+msgid "Host Aggregate"
+msgstr ""
+
+#: hypervisor
+msgid "hypervisor"
+msgstr ""
+
+#: identifier
+msgid "identifier"
+msgstr ""
+
+#: image+
+msgid "image "
+msgstr ""
+
+#: initiator+
+msgid "initiator "
+msgstr ""
+
+#: Injected+Files+
+msgid "Injected Files "
+msgstr ""
+
+#: instance+
+msgid "instance "
+msgstr ""
+
+#: interface
+msgid "interface"
+msgstr ""
+
+#: job
+msgid "job"
+msgstr ""
+
+#: job+template
+msgid "job template"
+msgstr ""
+
+#: Keypair+
+msgid "Keypair "
+msgstr ""
+
+#: launch+
+msgid "launch "
+msgstr ""
+
+#: load+balancer
+msgid "load balancer"
+msgstr ""
+
+#: library
+msgid "library"
+msgstr ""
+
+#: master
+msgid "master"
+msgstr ""
+
+#: member
+msgid "member"
+msgstr ""
+
+#: memory+
+msgid "memory "
+msgstr ""
+
+#: meter
+msgid "meter"
+msgstr ""
+
+#: namespace
+msgid "namespace"
+msgstr ""
+
+#: node
+msgid "node"
+msgstr ""
+
+#: object+
+msgid "object "
+msgstr ""
+
+#: orchestration
+msgid "orchestration"
+msgstr ""
+
+#: over+commit
+msgid "over commit"
+msgstr ""
+
+#: parameter+
+msgctxt "parameter "
+msgid "parameter "
+msgstr ""
+
+#: Perfect+Forward+Secrecy+
+msgid "Perfect Forward Secrecy "
+msgstr ""
+
+#: plugin
+msgid "plugin"
+msgstr ""
+
+#: policy
+msgid "policy"
+msgstr ""
+
+#: pool
+msgid "pool"
+msgstr ""
+
+#: Project+
+msgid "Project "
+msgstr ""
+
+#: Public+key+
+msgid "Public key "
+msgstr ""
+
+#: quota
+msgid "quota"
+msgstr ""
+
+#: Quotas+
+msgid "Quotas "
+msgstr ""
+
+#: reboot+
+msgid "reboot "
+msgstr ""
+
+#: Region+
+msgid "Region "
+msgstr ""
+
+#: remote
+msgid "remote"
+msgstr ""
+
+#: replication
+msgid "replication"
+msgstr ""
+
+#: Role+
+msgid "Role "
+msgstr ""
+
+#: router
+msgid "router"
+msgstr ""
+
+#: Security+Group+
+msgid "Security Group "
+msgstr ""
+
+#: server+
+msgid "server "
+msgstr ""
+
+#: snapshot
+msgid "snapshot"
+msgstr ""
+
+#: stack
+msgid "stack"
+msgstr ""
+
+#: storage
+msgid "storage"
+msgstr ""
+
+#: submit+
+msgid "submit "
+msgstr ""
+
+#: subnet
+msgid "subnet"
+msgstr ""
+
+#: Swap-Disk
+msgid "Swap-Disk"
+msgstr ""
+
+#: System+Panel+
+msgid "System Panel "
+msgstr ""
+
+#: tag
+msgid "tag"
+msgstr ""
+
+#: template
+msgid "template"
+msgstr ""
+
+#: Tenant+
+msgid "Tenant "
+msgstr ""
+
+#: token
+msgid "token"
+msgstr ""
+
+#: Usage+
+msgid "Usage "
+msgstr ""
+
+#: user+
+msgid "user "
+msgstr ""
+
+#: volume
+msgid "volume"
+msgstr ""
+
+#: Volume+Snapshot+
+msgid "Volume Snapshot "
+msgstr ""
+
+#: VCPU+Hours+
+msgid "VCPU Hours "
+msgstr ""
+
+#: parameter+
+msgctxt "parameter "
+msgid "parameter "
+msgstr ""
+
+#: worker
+msgid "worker"
+msgstr ""

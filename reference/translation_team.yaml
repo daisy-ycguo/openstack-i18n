@@ -1,0 +1,53 @@
+zh_cn:
+  coordinators:
+  	- Ying Chun Guo (daisyycguo)
+  language:
+  	- Chinese(China)
+  translators:
+  	- daisyycguo [guoyingc@cn.ibm.com]
+  	- liujunpeng [liujunpeng@inspur.com]
+  	- fifieldt [tom@openstack.org]
+	- yanheven [yanheven@qq.com]
+	- zhaochao [zhaochao1984@gmail.com]
+	- coffee [coffee.zyr@gmail.com]
+  reviewers:
+  	- daisyycguo [guoyingc@cn.ibm.com]
+  	- liujunpeng [liujunpeng@inspur.com]
+  	- fifieldt [tom@openstack.org]
+	- yanheven [yanheven@qq.com]
+	- zhaochao [zhaochao1984@gmail.com]
+	- coffee [coffee.zyr@gmail.com]
+ja:
+  coordinators:
+  	- KATO Tomoyuki (to222)
+  langauge:
+  	- Japanese
+  translators:
+  	- to222 [kato.tomoyuki@jp.fujitsu.com]
+	- amotoki [amotoki@gmail.com]
+	- nanodayo [nanodayo.work@gmail.com]
+	- masmiyam [masmiyam@yahoo-corp.jp]
+	- ykatabam [yukokatabami@gmail.com]
+  reviewers:
+ru:
+  coordinators:
+  	- Ilya Alekseyev (adiantum)
+  langauge:
+  	- Russian
+  translators:
+  	- adiantum [ilyaalekseyev@acm.org]
+  reviewers:
+	- adiantum [ilyaalekseyev@acm.org]
+fr:
+  coordinators:
+  	- Ilya Alekseyev (adiantum)
+  langauge:
+  	- French
+  translators:
+  	- fdotfr [bureaufrancois@gmail.com]
+	- seveillard [stephane.eveillard@gmail.com]
+	- gael_rehault [gael01@gmail.com]
+  reviewers:
+	- seveillard [stephane.eveillard@gmail.com]
+	- fdotfr [bureaufrancois@gmail.com]
+
